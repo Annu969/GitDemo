@@ -1,0 +1,2 @@
+Hello we are inside file2
+
